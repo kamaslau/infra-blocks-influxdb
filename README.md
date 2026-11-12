@@ -25,7 +25,7 @@ To add a server in UI, go to Configure Servers page → the Add Server button
 
 ```bash
 # Initiate .env file
-cp .env.sample .env
+cp .env.example .env
 # Start services
 docker compose up -d
 # Create an admin token
