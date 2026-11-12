@@ -1,5 +1,8 @@
 # infra-blocks-influxdb
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Repository size](https://img.shields.io/github/repo-size/kamaslau/infra-blocks-influxdb?color=56BEB8)
+
 Trial or micro-service unit of [InfluxDB](https://docs.influxdata.com/).
 
 ## Service Endpoints
