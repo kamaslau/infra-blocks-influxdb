@@ -1,4 +1,4 @@
-# trial-influxdb
+# infra-blocks-influxdb
 
 Trial or micro-service unit of [InfluxDB](https://docs.influxdata.com/).
 
