@@ -36,4 +36,4 @@ services:
     networks:
       - frontend
     ports:
-      - ${PORT_UI-8888}:80
+      - ${PORT_UI-8888}:8080
